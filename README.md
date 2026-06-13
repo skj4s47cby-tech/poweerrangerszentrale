@@ -1,22 +1,8 @@
 
-</head>
-
-<body>
-
-<div class="container">
-
 <div class="hero">
     <h1>⚡ POWERRANGERSZENTRALE ⚡</h1>
     <p>IT'S MORPHIN TIME!</p>
 
-    <div class="rangers">
-        <div class="ranger red"></div>
-        <div class="ranger blue"></div>
-        <div class="ranger green"></div>
-        <div class="ranger yellow"></div>
-        <div class="ranger pink"></div>
-    </div>
-</div>
 
 <div class="card">
     <h2>🥤 Softdrinks & Energy</h2>
