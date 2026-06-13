@@ -31,24 +31,18 @@
 
 <div class="card donate">
     <h2>❤️ Freiwillige Spende</h2>
-
-    <p>
-        Wenn euch der Abend gefällt und ihr die
-        Powerrangerszentrale unterstützen möchtet,
-        freuen wir uns über eine kleine Spende.
-    </p>
-
-    <a class="paypal-btn"
-       href="https://paypal.me/JenAu6797"
-       target="_blank">
-       💙 Mit PayPal spenden
-    </a>
-
-    <div class="qr-box">
-        <strong>QR-Code hier einfügen</strong><br><br>
-        Nutze einen QR-Code für:<br>
-        https://paypal.me/JenAu6797
-    </div>
+<a href="https://paypal.me/JenAu6797"
+   target="_blank"
+   style="
+      display:inline-block;
+      padding:15px 25px;
+      background:#0070ba;
+      color:white;
+      text-decoration:none;
+      border-radius:10px;
+      font-weight:bold;">
+   💙 Mit PayPal spenden
+</a>
 </div>
 
 <div class="footer">
